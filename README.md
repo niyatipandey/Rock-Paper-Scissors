@@ -30,7 +30,7 @@ It’s a beginner-friendly project to understand DOM manipulation, event handlin
 ## 📸 Preview
 
 ### ✅ You Win
-[Win Screenshot](./screenshot_win.png)
+![Win Screenshot](./screenshot_win.png)
 
 ### ❌ You Lose
 ![Lose Screenshot](./screenshot_lose.png)
