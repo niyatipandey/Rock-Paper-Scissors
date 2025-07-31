@@ -5,7 +5,7 @@ It’s a beginner-friendly project to understand DOM manipulation, event handlin
 
 ## 🔗 Live Demo
 
-👉 [Click here to play the game]((https://niyatipandey.github.io/Rock-Paper-Scissors/))
+👉 https://niyatipandey.github.io/Rock-Paper-Scissors/
 
 ## 📌 Features
 
@@ -30,11 +30,11 @@ It’s a beginner-friendly project to understand DOM manipulation, event handlin
 ## 📸 Preview
 
 ### ✅ You Win
-![Win Screenshot](./screenshot-win.png)
+!./screenshot-win.png
 
 ### ❌ You Lose
-![Lose Screenshot](./screenshot-lose.png)
+!./screenshot-lose.png
 
 ### 🤝 It's a Draw
-![Draw Screenshot](./screenshot-draw.png)
+!./screenshot-draw.png
 
