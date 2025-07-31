@@ -30,11 +30,11 @@ It’s a beginner-friendly project to understand DOM manipulation, event handlin
 ## 📸 Preview
 
 ### ✅ You Win
-!./screenshot-win.png
+!.screenshot_win.png
 
 ### ❌ You Lose
-!./screenshot-lose.png
+!.screenshot_lose.png
 
 ### 🤝 It's a Draw
-!./screenshot-draw.png
+!.screenshot_draw.png
 
